@@ -16,6 +16,7 @@ Follow these steps to set up and run the code:
 3.
 ``bash
    pip install -r requirements.txt
+  
 4. Go to respective mode1 folder and to run the mode1 execute below command
    ``bash
     python main.py
