@@ -18,7 +18,6 @@ Follow these steps to set up and run the code:
    
   ```bash
     pip install -r requirements.txt
-
 4. Go to respective model folder and to run the mode1 execute below 
    ```bash
      python main.py
