@@ -14,11 +14,11 @@ Follow these steps to set up and run the code:
    ```bash
    cd Machine-Learning
 3.
-``bash
+  ```bash
    pip install -r requirements.txt
   
 4. Go to respective mode1 folder and to run the mode1 execute below command
-   ``bash
+   ```bash
     python main.py
 
 
