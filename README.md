@@ -16,10 +16,10 @@ Follow these steps to set up and run the code:
    cd Machine-Learning
 3. Install Requirements using
    
-  ```bash
+    ```bash
     pip install -r requirements.txt
 4. Go to respective model folder and to run the mode1 execute below 
-   ```bash
+    ```bash
      python main.py
 
 
