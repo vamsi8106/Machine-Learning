@@ -13,10 +13,9 @@ Follow these steps to set up and run the code:
 2. Get Inside the repositry
    ```bash
    cd Machine-Learning
-3.
+3. Install Requirements using:
   ```bash
-   pip install -r requirements.txt
-  
+   pip install -r requirements.txt  
 4. Go to respective mode1 folder and to run the mode1 execute below command
    ```bash
     python main.py
